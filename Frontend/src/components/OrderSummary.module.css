@@ -1,0 +1,17 @@
+
+.root{
+      position: "sticky";
+      top: "1rem";
+      min-width: "275"
+    }
+  
+.title {
+      font-size: 14;
+    }
+.pos {
+      margin-bottom: 12; 
+    }
+  .pricetag{
+      margin-left: 10px;
+    }
+  
